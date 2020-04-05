@@ -1,0 +1,7 @@
+id=Frida-Inject
+name=Frida - Inject
+version=v1.1
+versionCode=11
+author=jumpcom
+description=Frida-Inject Base Module
+support=https://github.com/jumpcom/Frida-Inject
